@@ -6,8 +6,8 @@
 
 - [ ] 동영상 촬영 기능
   - [x] 사용자 디바이스 권한 요청 설정
-  - [ ] UIImagePickerController를 이용한 video 캡처
-  - [ ] 사용자가 시작-끝 조정 가능한 Editing 기능
+  - [x] UIImagePickerController를 이용한 video 캡처
+  - [x] 사용자가 시작-끝 조정 가능한 Editing 기능
   - [ ] Video -> [frame]
 - [ ] 데이터 전처리
   - [ ] Lip crop (Vision 프레임워크 사용할 것)
