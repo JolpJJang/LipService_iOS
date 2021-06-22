@@ -64,5 +64,7 @@
 	</array>
 	<key>NSCameraUsageDescription</key>
 	<string>LipService uses the camera to take videos</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>LipService uses the microphone to take videos</string>
 </dict>
 </plist>
